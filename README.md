@@ -1,6 +1,3 @@
-NAME : DINESH S
-
-REG NO : 212224230069
 
 # Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
@@ -26,8 +23,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Program and Output:
 ```
-developed by : Adharsh Vidyardh U
-reg no       : 212224230007
+developed by : DINESH S
+reg no       : 212224230069
 ```
 ```python
 import pandas as pd 
